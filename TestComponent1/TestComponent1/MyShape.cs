@@ -14,5 +14,14 @@ namespace TestComponent1
         {
             Name = name;
         }
+
+        public bool ChangeName(string newName)
+        {
+            if (newName == Name)
+                return false;
+
+            Name = newName;
+            return true;
+        }
     }
 }

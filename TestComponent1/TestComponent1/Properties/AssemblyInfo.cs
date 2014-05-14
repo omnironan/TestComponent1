@@ -6,10 +6,10 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("TestComponent1")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Jupiter - TestComponent1")]
+[assembly: AssemblyDescription("A Test component with no dependencies")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Omnifone")]
 [assembly: AssemblyProduct("TestComponent1")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
